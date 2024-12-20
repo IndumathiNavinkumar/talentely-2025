@@ -1,0 +1,329 @@
+{
+  "accordion": [
+    {
+      "tag": "accordion",
+      "title": "Histudy Course student",
+      "subTitle": "can join with us.",
+      "imgOne": "/images/about/about-01.jpg",
+      "imgTwo": "/images/about/about-04.jpg",
+      "accordionBody": [
+        {
+          "collapse": "collapseOne",
+          "heading": "headingOne",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Histudy ? How does it work?",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
+        },
+        {
+          "collapse": "collapseTwo",
+          "heading": "headingTwo",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get the customer support?",
+          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+        },
+        {
+          "collapse": "collapseThree",
+          "heading": "headingThree",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Can I get update regularly and For how long do I get updates?",
+          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+        },
+        {
+          "collapse": "collapseFour",
+          "heading": "headingFour",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things To Know About Education?",
+          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+        }
+      ]
+    }
+  ],
+
+  "AccordionTwo": [
+    {
+      "tag": "faq",
+      "title": "Have a Question with ",
+      "subTitle": " Histudy University?",
+      "strong": "Its an educational platform",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "imgOne": "/images/about/about-01.jpg",
+      "imgTwo": "/images/about/about-10.jpg",
+      "faqBody": [
+        {
+          "collapse": "collapseOne2",
+          "heading": "headingOne2",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Histudy ? How does it work?",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
+        },
+        {
+          "collapse": "collapseTwo2",
+          "heading": "headingTwo2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get the customer support?",
+          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+        },
+        {
+          "collapse": "collapseThree2",
+          "heading": "headingThree2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Can I get update regularly and For how long do I get updates?",
+          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+        },
+        {
+          "collapse": "collapseFour2",
+          "heading": "headingFour2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things To Know About Education?",
+          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+        }
+      ]
+    }
+  ],
+
+  "AccordionThree": [
+    {
+      "tag": "Stages",
+      "title": "Talentely Recruitment Process",
+      "strong": "Its an educational platform",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "faqBody": [
+        {
+          "collapse": "collapseOne3",
+          "heading": "headingOne3",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "Stage 1. Share Your Requirements",
+          "desc": "A dedicated Hiring Expert will be assigned to understand your needs and assist you throughout the recruitment process."
+        },
+        {
+          "collapse": "collapseTwo3",
+          "heading": "headingTwo3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Stage 2. Get Curated Profiles in 24 Hours",
+          "desc": "Receive a handpicked list of pre-trained, job-ready developers and professionals within 24 hours."
+        },
+        {
+          "collapse": "collapseThree3",
+          "heading": "headingThree3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Stage 3. Start the Selection Process",
+          "desc": "Use your preferred methods, such as technical tests, coding challenges, interviews, and other assessments, to evaluate the candidates&#39; skills and suitability."
+        },
+        {
+          "collapse": "collapseFour3",
+          "heading": "headingFour3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Stage 4. Pick Your Best Fit",
+          "desc": "Candidates are ready to join immediately, ensuring a quick and seamless integration into your projects and teams."
+        },
+        {
+          "collapse": "collapseFive3",
+          "heading": "headingFive3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Stage 5. Continuous Engagement and Support",
+          "desc": "Talentely provides ongoing support to ensure the smooth onboarding and integration of new hires into your organization."
+        },
+        {
+          "collapse": "collapseSix3",
+          "heading": "headingSix3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Stage 6. Custom Training for Specific Skills",
+          "desc": "If you need candidates to be trained in specific skills, our expert trainers will provide tailored training to selected candidates, ensuring they meet your precise requirements."
+        }
+      ],
+      "faqBody2": [
+        {
+          "collapse": "collapseOne4",
+          "heading": "headingOne4",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Histudy ? How does it work?",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
+        },
+        {
+          "collapse": "collapseTwo4",
+          "heading": "headingTwo4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "10 Brilliant Ways To Advertise Education",
+          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+        },
+        {
+          "collapse": "collapseThree4",
+          "heading": "headingThree4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "7 Facts About Education That Will Blow",
+          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+        },
+        {
+          "collapse": "collapseFour4",
+          "heading": "headingFour4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things To Know About Education?",
+          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+        },
+        {
+          "collapse": "collapseFive4",
+          "heading": "headingFive4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things To Know About Education?",
+          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+        },
+        {
+          "collapse": "collapseSix4",
+          "heading": "headingSix4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things To Know About Education?",
+          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+        }
+      ]
+    }
+  ],
+
+  "AccordionFour": [
+    {
+      "tag": "faq",
+      "title": "Have a Question with ",
+      "subTitle": " Histudy University?",
+      "strong": "Its an educational platform",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "imgOne": "/images/about/about-03.jpg",
+      "imgTwo": "/images/about/about-11.jpg",
+      "faqBody": [
+        {
+          "collapse": "collapseOne4",
+          "heading": "headingOne4",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Histudy ? How does it work?",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose."
+        },
+        {
+          "collapse": "collapseTwo4",
+          "heading": "headingTwo4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get the customer support?",
+          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+        },
+        {
+          "collapse": "collapseThree4",
+          "heading": "headingThree4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Can I get update regularly and For how long do I get updates?",
+          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+        },
+        {
+          "collapse": "collapseFour4",
+          "heading": "headingFour4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I run Histudy html template?",
+          "desc": "You can run Histudy easily. First You'll need to have node and npm on your machine. So Please open your command prompt then check your node."
+        }
+      ]
+    }
+  ],
+  "course": [
+    {
+      "tag": "COURSE PRICING",
+      "title": "Tuition & Fees",
+      "img": "/images/about/about-07.png",
+      "courseBody": [
+        {
+          "collapse": "tutioncollapseOne",
+          "heading": "tutionheadingOne",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "subTitle": "Master of Business Administration (MBA)",
+          "text": "Total Cost Breakdown 2024",
+          "cost": 500
+        },
+        {
+          "collapse": "tutioncollapseTwo",
+          "heading": "tutionheadingTwo",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "MSS in Economics",
+          "text": "Admission Eligibility Breakdown 2024",
+          "cost": 4589
+        },
+        {
+          "collapse": "tutioncollapseThe",
+          "heading": "tutionheadingThree",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "MS in Applied Physics & Electronics",
+          "text": "Admission Eligibility Breakdown 2024",
+          "cost": 1400
+        },
+        {
+          "collapse": "tutioncollapseFour",
+          "heading": "tutionheadingFour",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "Master of Laws (LL.M.)",
+          "text": "Total Cost Breakdown 2024",
+          "cost": 4589
+        },
+        {
+          "collapse": "tutioncollapseFive",
+          "heading": "tutionheadingFive",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "Master of Population, Reproductive Health",
+          "text": "Total Cost Breakdown 2024",
+          "cost": 5000
+        }
+      ]
+    }
+  ]
+}

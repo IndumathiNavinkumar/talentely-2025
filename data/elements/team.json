@@ -1,0 +1,432 @@
+{
+  "team": [
+    {
+      "img": "/images/team/team-01.jpg",
+      "isLarge": true,
+      "isActive": true,
+      "details": [
+        {
+          "img": "/images/team/team-01.jpg",
+          "name": "Mames Mary",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-02.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-02.jpg",
+          "name": "Christopher",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-03.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-03.jpg",
+          "name": "Robert Song",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-04.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-04.jpg",
+          "name": "William Susan",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-05.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-05.jpg",
+          "name": "Soseph Sara",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-06.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-06.jpg",
+          "name": "Thomas Dal",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-07.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-07.jpg",
+          "name": "Irma J. Erwin",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-08.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-08.jpg",
+          "name": "John Due",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-09.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-09.jpg",
+          "name": "Joo Bieden",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-10.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/team-10.jpg",
+          "name": "Alejandro",
+          "type": "English Teacher",
+          "location": "CO Miego, AD,USA",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "descTwo": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be success you.",
+          "phone": "+1-202-555-0174",
+          "email": "example@gmail.com"
+        }
+      ]
+    }
+  ],
+
+  "teamTwo": [
+    {
+      "img": "/images/contact/full-stack-java.jpg",
+      "isLarge": true,
+      "isActive": true,
+      "details": [
+        {
+          "img": "/images/contact/full-stack-java.jpg",
+          "name": "Full Stack Java/Python"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/mern-stack.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/mern-stack.jpg",
+          "name": "MERN Stack"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/mean-stack.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/mean-stack.jpg",
+          "name": "MEAN Stack"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/cyber-security.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/cyber-security.jpg",
+          "name": "Cyber Security"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/cloud-computing.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/cloud-computing.jpg",
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/ai&ml.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/ai&ml.jpg",
+          "name": "AI & ML"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/data-science.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/data-science.jpg",
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/software-testing.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/software-testing.jpg",
+          "name": "Software Testing"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-09.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/mobile-deve.jpg",
+          "name": "Mobile Development"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/devops.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/devops.jpg",
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/bi-visualization.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/bi-visualization.jpg",
+          "name": "BI and Visualization"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/programming-frameworks.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/programming-frameworks.jpg",
+          "name": "Programming & Frameworks"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/architecture-design-patterns.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/architecture-design-patterns.jpg",
+          "name": "Architecture & Design Patterns"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/rpa.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/rpa.jpg",
+          "name": "RPA"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/digital-marketing.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/digital-marketing.jpg",
+          "name": "Digital Marketing"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/softskills.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/softskills.jpg",
+          "name": "Softskills"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/finance.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/finance.jpg",
+          "name": "Finance"
+        }
+      ]
+    }
+  ],
+
+  "whyTalentely": [
+    {
+      "img": "/images/why-talentely/efficiency-speed.jpg",
+      "isLarge": true,
+      "isActive": true,
+      "details": [
+        {
+          "img": "/images/why-talentely/efficiency-speed.jpg",
+          "title": "Efficiency and Speed",
+          "subtitle": "Quick Turnaround",
+          "des": "24-Hour Profile Delivery"
+        }
+      ]
+    },
+    {
+      "img": "/images/why-talentely/quality-precision.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/why-talentely/quality-precision.jpg",
+          "title": "Quality and Precision",
+          "subtitle": "AI-Driven Shortlisting",
+          "des": "360º Profiling"
+        }
+      ]
+    },
+    {
+      "img": "/images/why-talentely/cost-effectiveness.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/why-talentely/cost-effectiveness.jpg",
+          "title": "Cost-Effectiveness",
+          "subtitle": "Zero Hiring Fees",
+          "des": "Reduced Training Costs"
+        }
+      ]
+    },
+    {
+      "img": "/images/why-talentely/access-diverse-talent.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/why-talentely/access-diverse-talent.jpg",
+          "title": "Access to Diverse Talent",
+          "subtitle": "Wide Talent Pool",
+          "des": "Specialized Skills"
+        }
+      ]
+    },
+    {
+      "img": "/images/why-talentely/seamless-integration.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/why-talentely/seamless-integration.jpg",
+          "title": "Seamless Integration",
+          "subtitle": "Immediate Onboarding",
+          "des": "Ongoing Support"
+        }
+      ]
+    }
+  ]
+}
